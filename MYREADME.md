@@ -90,7 +90,7 @@ Bunun gibi bir klasör yapısı buldum -
 ![](jpg/structure.jpg)
 
 ## deployment
-npm build
+npm run-script build
 yarn build
 
 cd build
