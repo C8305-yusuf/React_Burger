@@ -88,3 +88,8 @@ Bunun gibi bir klasör yapısı buldum -
 
 ## Overview
 ![](jpg/structure.jpg)
+
+## deployment
+
+cd build
+surge
