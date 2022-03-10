@@ -90,6 +90,8 @@ Bunun gibi bir klasör yapısı buldum -
 ![](jpg/structure.jpg)
 
 ## deployment
+npm build
+yarn build
 
 cd build
 surge
